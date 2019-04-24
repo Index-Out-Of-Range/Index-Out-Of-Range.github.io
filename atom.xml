@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-24T08:11:07.402Z</updated>
+  <updated>2019-04-24T08:59:53.459Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/03/27/NKOJ-%E5%8E%9F%E5%9E%8B%E5%9B%BE/"/>
     <id>http://yoursite.com/2019/03/27/NKOJ-原型图/</id>
     <published>2019-03-27T07:25:47.000Z</published>
-    <updated>2019-04-24T08:11:07.402Z</updated>
+    <updated>2019-04-24T08:59:53.459Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h1 id="原型图设计"><a href="#原型图设计" class="headerlink" title="原型图设计"></a>原型图设计</h1><blockquote><p>使用xiaopiu制作的OJ系统的原型图</p></blockquote><hr><h3 id="登录界面"><a href="#登录界面" class="headerlink" title="登录界面"></a>登录界面</h3><h2 id><a href="#" class="headerlink" title></a><img src="/images/企业级应用开发/第二次报告/bVbqxqE.jpg" alt="登录界面"></h2><h3 id="课时信息界面"><a href="#课时信息界面" class="headerlink" title="课时信息界面"></a>课时信息界面</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxqW.jpg" alt="课时信息"></p><h2 id="-1"><a href="#-1" class="headerlink" title></a><img src="/images/企业级应用开发/第二次报告/bVbqxq8.jpg" alt="课时信息-查看课程"></h2><h4 id="查看题目"><a href="#查看题目" class="headerlink" title="查看题目"></a>查看题目</h4><p><img src="/images/企业级应用开发/第二次报告/bVbqxrx.jpg" alt="图片描述"><br><img src="/images/企业级应用开发/第二次报告/bVbqxry.jpg" alt="提交情况"></p><h2 id="-2"><a href="#-2" class="headerlink" title></a><img src="/images/企业级应用开发/第二次报告/bVbqxrO.jpg" alt="统计结果"></h2><h3 id="课程管理"><a href="#课程管理" class="headerlink" title="课程管理"></a>课程管理</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxrZ.jpg" alt="课程管理"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr0.jpg" alt="新建课程"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr2.jpg" alt="新建题目"></p><h2 id="-3"><a href="#-3" class="headerlink" title></a><img src="/images/企业级应用开发/第二次报告/bVbqxr1.jpg" alt="查看课程"></h2><h3 id="个人中心"><a href="#个人中心" class="headerlink" title="个人中心"></a>个人中心</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxr5.jpg" alt="个人资料"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr6.jpg" alt="消息中心"></p><h2 id="-4"><a href="#-4" class="headerlink" title></a><img src="/images/企业级应用开发/第二次报告/bVbqxr7.jpg" alt="重要提醒"></h2><h3 id="题库"><a href="#题库" class="headerlink" title="题库"></a>题库</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxsh.jpg" alt="查看题目"><br><img src="/images/企业级应用开发/第二次报告/bVbqxsl.jpg" alt="添加题目"></p>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="原型图设计"><a href="#原型图设计" class="headerlink" title="原型图设计"></a>原型图设计</h1><blockquote><p>使用xiaopiu制作的OJ系统的原型图</p></blockquote><hr><h3 id="登录界面"><a href="#登录界面" class="headerlink" title="登录界面"></a>登录界面</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxqE.jpg" alt="登录界面"></p><h3 id="课时信息界面"><a href="#课时信息界面" class="headerlink" title="课时信息界面"></a>课时信息界面</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxqW.jpg" alt="课时信息"><br><img src="/images/企业级应用开发/第二次报告/bVbqxq8.jpg" alt="课时信息-查看课程"></p><h4 id="查看题目"><a href="#查看题目" class="headerlink" title="查看题目"></a>查看题目</h4><p><img src="/images/企业级应用开发/第二次报告/bVbqxrx.jpg" alt="图片描述"><br><img src="/images/企业级应用开发/第二次报告/bVbqxry.jpg" alt="提交情况"><br><img src="/images/企业级应用开发/第二次报告/bVbqxrO.jpg" alt="统计结果"></p><h3 id="课程管理"><a href="#课程管理" class="headerlink" title="课程管理"></a>课程管理</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxrZ.jpg" alt="课程管理"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr0.jpg" alt="新建课程"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr2.jpg" alt="新建题目"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr1.jpg" alt="查看课程"></p><h3 id="个人中心"><a href="#个人中心" class="headerlink" title="个人中心"></a>个人中心</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxr5.jpg" alt="个人资料"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr6.jpg" alt="消息中心"><br><img src="/images/企业级应用开发/第二次报告/bVbqxr7.jpg" alt="重要提醒"></p><h3 id="题库"><a href="#题库" class="headerlink" title="题库"></a>题库</h3><p><img src="/images/企业级应用开发/第二次报告/bVbqxsh.jpg" alt="查看题目"><br><img src="/images/企业级应用开发/第二次报告/bVbqxsl.jpg" alt="添加题目"></p>]]></content>
     
     <summary type="html">
     
