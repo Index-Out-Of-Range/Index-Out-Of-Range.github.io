@@ -1838,7 +1838,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff70f0;
+  background: #8ef2ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2474,7 +2474,7 @@ embed {
   display: inline-block;
 }
 body {
-  background-image: url("/images/background.png");
+  background-image: url("https://gitlab.com/DingPeng_/blog_images_gitlab/raw/master/Beautiful_wallpaper/52520072_p0.png");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: 100%;
