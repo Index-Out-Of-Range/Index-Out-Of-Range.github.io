@@ -105,7 +105,7 @@
 <meta property="og:site_name" content="Dipo">
 <meta property="og:description" content="企业级应用开发第五次报告">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-06-04T06:31:53.487Z">
+<meta property="og:updated_time" content="2019-06-04T08:40:46.245Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="NKOJ-小组后端开发">
 <meta name="twitter:description" content="企业级应用开发第五次报告">
@@ -386,7 +386,7 @@
                 
               
 
-              <time title="创建时间：2019-06-04 14:31:16 / 修改时间：14:31:53" itemprop="dateCreated datePublished" datetime="2019-06-04T14:31:16+08:00">2019-06-04</time>
+              <time title="创建时间：2019-06-04 14:31:16 / 修改时间：16:40:46" itemprop="dateCreated datePublished" datetime="2019-06-04T14:31:16+08:00">2019-06-04</time>
             
 
             
@@ -445,7 +445,25 @@
       
 
       
-        
+        <a id="more"></a>
+<h1 id="学生端接口"><a href="#学生端接口" class="headerlink" title="学生端接口"></a>学生端接口</h1><ul>
+<li>用户查看某个课程的实验课列表</li>
+<li>用户查看实验课详情</li>
+<li>用户提交实验报告</li>
+</ul>
+<p>###用户查看某个课程的实验课列表<br><strong>/student/lab/lab_course_list/</strong></p>
+<p>Request<br>{<br>    “id_course”: 123<br>}</p>
+<p>Response<br>{<br>lab: [{<br>“name”:123,<br>“start_time”: ”2019-4-1 14:00:00”,<br> “end_time”: ”2019-4-2 14:00:00”,<br>}]<br>}</p>
+<p>####测试结果：</p>
+<p>###用户查看实验课详情<br><strong>/student/lab/lab_course_list/</strong></p>
+<p>Request<br>{<br>      “id_lab”: 123<br>}</p>
+<p>Response<br>{<br>    “name”: “二叉树”,<br>    “description”: “实现搜索二叉树”,<br>    “start_time”: ”2019-4-1 14:00:00”,<br>    “end_time”: ”2019-4-1 14:00:00”,<br>    “report_required”：true,<br>    “problem_weight”: 0.2,<br>    “attachment_weight”: 0.8,<br>    [{<br>“id_problem”: 123,<br>“name”: “搜索二叉树”,<br>“score”:100/100<br>}]  // 实验课问题<br>}</p>
+<p>####测试结果：</p>
+<p>###用户查看实验课详情<br><strong>/student/lab/lab_course_list/</strong></p>
+<p>Request<br>{<br>“id_user”:123,<br>“id_course”: 1234  // 新增课程的信息<br>“id_lab”:123,<br>“file”//本地路径地址<br>}</p>
+<p>{<br>state_code  // 0-成功，-1-上传失败<br>}</p>
+<p>####测试结果：</p>
+
       
     </div>
 
@@ -527,8 +545,17 @@
       
 
       
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            文章目录
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            站点概览
+          </li>
+        </ul>
+      
 
-      <div class="site-overview-wrap sidebar-panel sidebar-panel-active">
+      <div class="site-overview-wrap sidebar-panel">
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
             
@@ -617,6 +644,23 @@
         </div>
       </div>
 
+      
+      <!--noindex-->
+        <div class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+            
+            
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#学生端接口"><span class="nav-number">1.</span> <span class="nav-text">学生端接口</span></a></li></ol></div>
+            
+
+          </div>
+        </div>
+      <!--/noindex-->
       
 
       

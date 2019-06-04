@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-06-04T06:31:53.487Z</updated>
+  <updated>2019-06-04T08:40:46.245Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,9 @@
     <link href="http://yoursite.com/2019/06/04/NKOJ-%E5%B0%8F%E7%BB%84%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     <id>http://yoursite.com/2019/06/04/NKOJ-小组后端开发/</id>
     <published>2019-06-04T06:31:16.000Z</published>
-    <updated>2019-06-04T06:31:53.487Z</updated>
+    <updated>2019-06-04T08:40:46.245Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="学生端接口"><a href="#学生端接口" class="headerlink" title="学生端接口"></a>学生端接口</h1><ul><li>用户查看某个课程的实验课列表</li><li>用户查看实验课详情</li><li>用户提交实验报告</li></ul><p>###用户查看某个课程的实验课列表<br><strong>/student/lab/lab_course_list/</strong></p><p>Request<br>{<br>    “id_course”: 123<br>}</p><p>Response<br>{<br>lab: [{<br>“name”:123,<br>“start_time”: ”2019-4-1 14:00:00”,<br> “end_time”: ”2019-4-2 14:00:00”,<br>}]<br>}</p><p>####测试结果：</p><p>###用户查看实验课详情<br><strong>/student/lab/lab_course_list/</strong></p><p>Request<br>{<br>      “id_lab”: 123<br>}</p><p>Response<br>{<br>    “name”: “二叉树”,<br>    “description”: “实现搜索二叉树”,<br>    “start_time”: ”2019-4-1 14:00:00”,<br>    “end_time”: ”2019-4-1 14:00:00”,<br>    “report_required”：true,<br>    “problem_weight”: 0.2,<br>    “attachment_weight”: 0.8,<br>    [{<br>“id_problem”: 123,<br>“name”: “搜索二叉树”,<br>“score”:100/100<br>}]  // 实验课问题<br>}</p><p>####测试结果：</p><p>###用户查看实验课详情<br><strong>/student/lab/lab_course_list/</strong></p><p>Request<br>{<br>“id_user”:123,<br>“id_course”: 1234  // 新增课程的信息<br>“id_lab”:123,<br>“file”//本地路径地址<br>}</p><p>{<br>state_code  // 0-成功，-1-上传失败<br>}</p><p>####测试结果：</p>]]></content>
     
     <summary type="html">
     
