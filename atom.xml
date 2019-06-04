@@ -39,9 +39,9 @@
     <link href="http://yoursite.com/2019/06/04/NKOJ-%E5%B0%8F%E7%BB%84%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     <id>http://yoursite.com/2019/06/04/NKOJ-小组前端开发/</id>
     <published>2019-06-04T06:31:09.000Z</published>
-    <updated>2019-06-04T08:35:36.030Z</updated>
+    <updated>2019-06-04T08:38:31.620Z</updated>
     
-    <content type="html"><![CDATA[<a id="more"></a><h1 id="前端项目开发"><a href="#前端项目开发" class="headerlink" title="前端项目开发"></a>前端项目开发</h1><h3 id="项目任务"><a href="#项目任务" class="headerlink" title="项目任务"></a>项目任务</h3><ul><li>负责实验课列表界面的开发</li><li>负责实验课详情界面的开发</li></ul><h5 id="实验课列表"><a href="#实验课列表" class="headerlink" title="实验课列表"></a>实验课列表</h5><ul><li><strong>用户在点击某一门课程之后，可以查看这门课程的所有实验课，通过左侧侧边栏可以进入<code>实验课列表</code></strong></li></ul><p><img src="/images/企业级应用开发/第三次报告/实验课列表.png" alt="实验课列表"></p><h5 id="实验课详情"><a href="#实验课详情" class="headerlink" title="实验课详情"></a>实验课详情</h5><ul><li><strong>用户在实验课列表界面，点击某一个具体的实验，可以跳转到<code>实验详情</code>界面</strong></li><li><code>实验详情</code>界面包括这次实验的内容、这次实验附加的题目</li><li>用户可以在<code>实验详情</code>界面提交实验报告</li></ul><p><img src="/images/企业级应用开发/第三次报告/实验课列表.png" alt="实验详情"></p>]]></content>
+    <content type="html"><![CDATA[<a id="more"></a><h1 id="前端项目开发"><a href="#前端项目开发" class="headerlink" title="前端项目开发"></a>前端项目开发</h1><h3 id="项目任务"><a href="#项目任务" class="headerlink" title="项目任务"></a>项目任务</h3><ul><li>负责实验课列表界面的开发</li><li>负责实验课详情界面的开发</li></ul><h5 id="实验课列表"><a href="#实验课列表" class="headerlink" title="实验课列表"></a>实验课列表</h5><ul><li><strong>用户在点击某一门课程之后，可以查看这门课程的所有实验课，通过左侧侧边栏可以进入<code>实验课列表</code></strong></li></ul><p><img src="/images/企业级应用开发/第三次报告/实验课列表.png" alt="实验课列表"></p><h5 id="实验课详情"><a href="#实验课详情" class="headerlink" title="实验课详情"></a>实验课详情</h5><ul><li><strong>用户在实验课列表界面，点击<code>查看详情</code>按钮，可以跳转到<code>实验详情</code>界面</strong></li><li><code>实验详情</code>界面包括这次实验的内容、这次实验附加的题目</li><li>用户可以在<code>实验详情</code>界面提交实验报告</li></ul><p><img src="/images/企业级应用开发/第三次报告/实验详情.png" alt="实验详情"></p>]]></content>
     
     <summary type="html">
     
