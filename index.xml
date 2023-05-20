@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vito&#39;s Blog</title>
+        <link>https://index-out-of-range.github.io/</link>
+        <description>Vito&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 21 May 2023 00:36:05 &#43;0800</lastBuildDate>
+            <atom:link href="https://index-out-of-range.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>我的第一篇文章</title>
+    <link>https://index-out-of-range.github.io/posts/my_first_post/</link>
+    <pubDate>Sun, 21 May 2023 00:36:05 &#43;0800</pubDate><author>
+        <name>作者</name>
+    </author><guid>https://index-out-of-range.github.io/posts/my_first_post/</guid>
+    <description><![CDATA[<p>这篇文章借鉴了一篇很棒的文章：<a href="https://www.pseudoyu.com/zh/2022/05/29/deploy_your_blog_using_hugo_and_github_action" target="_blank" rel="noopener noreferrer">Hugo自动化部署</a>.</p>]]></description>
+</item></channel>
+</rss>
