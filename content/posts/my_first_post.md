@@ -1,5 +1,6 @@
 ---
 title: "我的第一篇文章"
+authors: [dipo]
 date: 2023-05-21T00:36:05+08:00
 draft: false
 ---
