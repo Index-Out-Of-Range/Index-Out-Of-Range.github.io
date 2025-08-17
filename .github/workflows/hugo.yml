@@ -21,6 +21,9 @@ jobs:
             - name: ShellCheck
               uses: ludeeus/action-shellcheck@2.0.0
 
+            - name: Lint Markdown
+              uses: tomwhross/write-good-action@v1.6
+
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
               with:
