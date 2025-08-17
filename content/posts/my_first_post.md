@@ -10,5 +10,5 @@ draft: false
 <!--more-->
 
 
- **DoIt** 主题的扩展 Markdown 语法, [扩展 Markdown 语法页面](../theme-documentation-content#extended-markdown-syntax).
+ **DoIt** 主题的扩展 Markdown 语法, [扩展 Markdown 语法页面](https://hugodoit.pages.dev/zh-cn/basic-markdown-syntax/).
 
