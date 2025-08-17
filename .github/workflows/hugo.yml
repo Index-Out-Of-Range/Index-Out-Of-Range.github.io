@@ -18,6 +18,8 @@ jobs:
               with:
                   submodules: true
                   fetch-depth: 0
+            - name: ShellCheck
+              uses: ludeeus/action-shellcheck@2.0.0
 
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v2
